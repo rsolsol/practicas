@@ -44,7 +44,7 @@
     </script>
 </head>
 <body>
-  <h1>T.U.P.A - Municipalidad Distrital de Puente Piedra</h1>
+  <h1>T.U.P.A VIGENTE - Municipalidad Distrital de Puente Piedra</h1>
   <h2>Tr&aacute;mite &Uacute;nico de Procedimientos Administrativos</h2>
    <form action="">
     <fieldset>
