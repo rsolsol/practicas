@@ -45,7 +45,7 @@
 </head>
 <body>
   <h1>T.U.P.A VIGENTE - Municipalidad Distrital de Puente Piedra</h1>
-  <h2>Tr&aacute;mite &Uacute;nico de Procedimientos Administrativos</h2>
+  <h2>Tr&aacute;mite &Uacute;nico de Procedimientos Administrativos Aprobado con el DA 20-2015</h2>
    <form action="">
     <fieldset>
             <legend>Seleccione una Gerencia :D</legend>
