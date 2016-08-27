@@ -31,3 +31,9 @@ select:hover{
 	background-color: #F9FCC7;
 	
 }
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
