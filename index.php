@@ -71,5 +71,8 @@
         </div>
     </fieldset>
     </form>
+    <footer>
+        <p>municipalidad Distrital de Puente Piedra</p>
+    </footer>
 </body>
 </html>
