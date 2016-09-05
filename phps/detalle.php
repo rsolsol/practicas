@@ -5,7 +5,7 @@
     $idproced=intval($_GET['param_proc']);
     $idsubp=intval($_GET['param_sub']);
 
-    $sql="SELECT * FROM detalle WHERE id_gerencias='$idgerenc' and id_procedimientos='$idproced' and id_subproced='$idsubp'";
+    $sql="SELECT * FROM detalle WHERE id_gerencias='$idgerenc' and id_procedimientos='$idproced' and id_subproced='$idsubp' and estado_detalle='1'";
     $resultado= mysqli_query($coneccion,$sql) or die ('Consulta del detalle fallida: '. mysqli_error());
     $fila_cnt=mysqli_num_rows($resultado);
     $contador=0;
